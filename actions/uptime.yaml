@@ -1,0 +1,9 @@
+---
+name: uptime
+runner_type: "local-shell-cmd"
+enabled: true
+entry_point: ""
+parameters:
+  cmd:
+    type: "string"
+    default: "uptime"

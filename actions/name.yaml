@@ -1,0 +1,9 @@
+---
+name: name
+runner_type: "local-shell-cmd"
+enabled: true
+entry_point: ""
+parameters:
+  cmd:
+    type: "string"
+    default: "lsb_release  -a"

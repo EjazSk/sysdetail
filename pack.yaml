@@ -1,0 +1,10 @@
+---
+
+ref: sysdetail
+name: System Details
+description: Pack for getting System details
+version: 0.0.1
+python_versions:
+  - "3"
+author: Ejaz
+email: ejaz@email.com
